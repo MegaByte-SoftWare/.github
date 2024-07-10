@@ -1,5 +1,3 @@
----
-
 # MegaByte Software
 
 **Do best or never do thing**
@@ -17,5 +15,3 @@ Welcome to MegaByte Software! We are dedicated to delivering the best software s
 ## Connect with Us
 
 Follow us on GitHub to stay updated on our latest projects and releases.
-
----
